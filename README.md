@@ -1,0 +1,1 @@
+# SonarCube-Vagrant
